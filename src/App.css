@@ -1,4 +1,35 @@
-.App {
+.Nav{
+  text-align: right;
+  background-color: #45cba7;
+
+}
+ul {
+  list-style-type: none;
+  margin-left: 70vw;
+  margin-right: 2vw;
+  padding: 0;
+  background-color: #45cba7;
+  overflow: hidden;
+  text-align: center;
+
+}
+
+li {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 24px;
+  text-decoration: none;
+}
+
+
+
+li:hover {
+  background-color: #111;
+  border-radius: 5px;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +66,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

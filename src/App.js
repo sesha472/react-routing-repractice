@@ -10,8 +10,6 @@ function App() {
   return (
    
 <div className='App'>
-<h1>changed the code </h1>
-
    
    <Navbar/>
    <Routes>
